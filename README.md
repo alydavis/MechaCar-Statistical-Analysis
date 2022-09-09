@@ -19,7 +19,13 @@ Write a short summary using a screenshot of the output from the linear regressio
 - Is the slope of the linear model considered to be zero? Why or why not?
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-### PSI Summary Statistics
+### Summary Statistics on Suspension Coils
+![Image_2](Images/Deliverable_2_1_Total_Summary.png)
+![Image_3](Images/Deliverable_2_2_Lot_Summary.png)
+
+Write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
 ### T-Tests
 
