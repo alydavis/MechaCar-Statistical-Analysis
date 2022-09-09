@@ -27,9 +27,21 @@ Write a short summary using screenshots from your total_summary and lot_summary 
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-### T-Tests
+### T-Tests on Suspension Coils
 
-### Statistical Study
+![Image_4](Images/Deliverable_3_1_T_Test.png)
+<br> ![Image_5](Images/Deliverable_3_2_T_Test_Lot_1.png)
+<br> ![Image_6](Images/Deliverable_3_3_T_Test_Lot_2.png)
+<br> ![Image_7](Images/Deliverable_3_4_T_Test_Lot_3.png)
+
+### Study Design: MechaCar vs. Competition
+
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+- What metric or metrics are you going to test?
+- What is the null hypothesis or alternative hypothesis?
+- What statistical test would you use to test the hypothesis? And why?
+- What data is needed to run the statistical test?
 
 #### Resources
 Data Source: [MechaCar_mpg.csv](Resources/MechaCar_mpg.csv), [Suspension_Coil.csv](Resources/Suspension_Coil.csv)
