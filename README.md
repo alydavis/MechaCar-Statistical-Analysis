@@ -57,8 +57,8 @@ In your description, address the following questions:
 - What metric or metrics are you going to test?
 
 - What is the null hypothesis or alternative hypothesis?
-- - Null Hypothesis:
-- - Alternate Hypothesis
+  - Null Hypothesis:
+  - Alternate Hypothesis
  
 - What statistical test would you use to test the hypothesis? And why?
 
