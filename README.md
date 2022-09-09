@@ -38,13 +38,30 @@ While the overall Variance falls under this threshold as shown in the total summ
 <br> ![Image_6](Images/Deliverable_3_3_T_Test_Lot_2.png)
 <br> ![Image_7](Images/Deliverable_3_4_T_Test_Lot_3.png)
 
+Comparing p-values for PSI across all the lots, p = 0.06 is not enough evidence to reject the null hypothesis. The same is true of Lots 1 and 2 with p-values of 1 and 0.61 respectively. However, once again with Lot 3, we can reject the null hypothesis because the p-value is .04.
+
+This analysis further points to Lot3 as the manufacturing problem as it does not meet the quality thresholds.
+
 ### Study Design: MechaCar vs. Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+To compare MechaCar to the competition, the following study could be performed. 
+
+Metrics would be of interest to a consumer: 
+-cost 
+- city or highway fuel efficiency
+- horse power
+- maintenance cost  
+- safety rating.
+
 In your description, address the following questions:
 - What metric or metrics are you going to test?
+- 
 - What is the null hypothesis or alternative hypothesis?
+- - Null Hypothesis:
+- - Alternate Hypothesis
+- 
 - What statistical test would you use to test the hypothesis? And why?
+-
 - What data is needed to run the statistical test?
 
 #### Resources
