@@ -56,9 +56,9 @@ For example, if we were to compare fuel efficiency:
   - Null Hypothesis (Ho): There is no statistical difference between the competition's mpg and MechaCar's mpg.  
   - Alternate Hypothesis (Ha): The average MechaCar mpg is greater than the average competitor's mpg. 
   
-- To test this hypothesis a t-test could either reject the null or confirm the alternate hypothesis. 
+To test this hypothesis a t-test could either reject the null or confirm the alternate hypothesis. 
 
-- To perform this test, I would define the p-value. Simliar to the completed tests, the normal signfiance level of 0.05 could be standard.
+To perform this test, I would define the p-value. Simliar to the completed tests, the normal signfiance level of 0.05 could be standard.
 
 #### Resources
 Data Source: [MechaCar_mpg.csv](Resources/MechaCar_mpg.csv), [Suspension_Coil.csv](Resources/Suspension_Coil.csv)
