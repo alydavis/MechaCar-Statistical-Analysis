@@ -44,25 +44,21 @@ This analysis further points to Lot3 as the manufacturing problem as it does not
 
 ### Study Design: MechaCar vs. Competition
 
-To compare MechaCar to the competition, the following study could be performed. 
-
-Metrics would be of interest to a consumer: 
+To compare MechaCar to the competition, a study comparing key vehicle features to the competition could help drive demand for the MechaCar. When thinking about what is important for customers, any of the following metrics could be measured:
 - cost 
-- city or highway fuel efficiency
+- fuel efficiency
 - horse power
-- maintenance cost  
-- safety rating.
+- safety rating
 
-In your description, address the following questions:
-- What metric or metrics are you going to test?
+If I were to test these metrics for MechaCar vs. Competition the process would be to create a null and alternative hypothesis, perform a statistical test, and analyze the results. 
 
-- What is the null hypothesis or alternative hypothesis?
-  - Null Hypothesis:
-  - Alternate Hypothesis
- 
-- What statistical test would you use to test the hypothesis? And why?
+For example, if we were to compare fuel efficiency:
+  - Null Hypothesis (Ho): There is no statistical difference between the competition's mpg and MechaCar's mpg.  
+  - Alternate Hypothesis (Ha): The average MechaCar mpg is greater than the average competitor's mpg. 
+  
+- To test this hypothesis a t-test could either reject the null or confirm the alternate hypothesis. 
 
-- What data is needed to run the statistical test?
+- To perform this test, I would define the p-value. Simliar to the completed tests, the normal signfiance level of 0.05 could be standard.
 
 #### Resources
 Data Source: [MechaCar_mpg.csv](Resources/MechaCar_mpg.csv), [Suspension_Coil.csv](Resources/Suspension_Coil.csv)
